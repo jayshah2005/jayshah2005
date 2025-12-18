@@ -1,10 +1,14 @@
-## Hi there, I am Jay!
+## 👨‍💻 About Me
 
 I am a software developer focusing on building full-stack applications that are fast, reliable, and scalable. I’m passionate about turning ideas into functional, real-world products.
 
 I love building. Whether it's Java applications, full-stack React web apps, automations in n8n, games in Unity, ETL pipelines in Databricks, or dashboards in Power BI, I adapt quickly and find the levers that drive results.
 
-Always open to conversations, collaborations, and new opportunities, feel free to shoot me a DM.
+---
+
+<div align="center">
+<i>Always open to conversations, collaborations, and new opportunities — feel free to shoot me a DM on <a href="https://www.linkedin.com/in/jayshah3616/" target="_blank" rel="noreferrer">LinkedIn</a>.</i>
+</div>
 
 <!--
 **jayshah2005/jayshah2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
