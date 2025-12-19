@@ -41,8 +41,6 @@ I love building across the stack. From Java applications and full-stack React ap
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **jayshah2005/jayshah2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
