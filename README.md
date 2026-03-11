@@ -29,7 +29,7 @@
 
 I am a software developer focused on building fast, reliable, and scalable full-stack applications. I’m passionate about turning ideas into functional products that solve real problems.
 
-I love building across the stack. From Java applications and full-stack React apps to workflow automations in n8n, ETL pipelines in Databricks, dashboards in Power BI and games in Unity, I adapt quickly and focus on levers that drive impact.
+I love building across the stack. From Java applications and full-stack React apps to AI/ML models, workflow automations in n8n, ETL pipelines in Databricks, dashboards in Power BI and games in Unity, I adapt quickly and focus on levers that drive impact.
 
 ---
 
