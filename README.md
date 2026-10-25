@@ -36,9 +36,10 @@ I like hard technical problems that end in something real. I'm a 4th-year CS stu
 
 ## Work that isn't on GitHub
 
-I did two internships with the Ontario government, so that code is private. The highlights: a PII redaction tool (99% accurate, 86% faster after optimization), automated profiling for 805+ database tables, and ETL pipelines that save 72 hours a year.
+I did two internships with the Ontario government, so that code is private. The highlights: a PII redaction tool (99% accurate, 86% faster after optimization), automated profiling for 805+ database tables, and ETL pipelines that save 72 hours a year. 
 
 I try to create more than I consume, so there's usually a side project in progress.
+
 ---
 
 <div align="center">
