@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h1 align="center">
+<h1 align="left">
   Hi, I'm Jay!
 </h1>
 
