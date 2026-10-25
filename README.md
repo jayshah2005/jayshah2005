@@ -26,7 +26,9 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </p> -->
-I like hard technical problems that end in something real. I'm a 4th-year CS student at Brock University, building a custom hyperspectral drone and an AI pipeline to spot disease in grapevines for my thesis. I try to create more than I consume, so there's usually a side project in progress.
+I like hard technical problems that end in something real. I'm a 4th-year CS student at Brock University, building a custom hyperspectral drone and an AI pipeline to spot disease in grapevines for my thesis. 
+
+I try to create more than I consume, so there's usually a side project in progress.
 
 I'm looking for Summer 2027 internships and new grad roles in applied ML, computer vision and data.
 
