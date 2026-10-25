@@ -26,11 +26,19 @@
     <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
   </a>
 </p> -->
+I like hard technical problems that end in something real. I'm a 4th-year CS student at Brock University, building a custom hyperspectral drone and an AI pipeline to spot disease in grapevines for my thesis.
 
-I am a software developer focused on building fast, reliable, and scalable full-stack applications. I’m passionate about turning ideas into functional products that solve real problems.
+## Right now
 
-I love building across the stack. From Java applications and full-stack React apps to AI/ML models, workflow automations in n8n, ETL pipelines in Databricks, dashboards in Power BI and games in Unity, I adapt quickly and focus on levers that drive impact.
+- Building the drone from scratch. It's early, so the goal for now is reliable flight (Crazyflie drones along the way).
+- Building [SegmentationApp](https://github.com/jayshah2005/SegmentationApp), a tool on Meta's Segment Anything Model for labelling grapevine images.
+- Looking for Summer 2027 internships and new grad roles in applied ML, computer vision and data.
 
+## Work that isn't on GitHub
+
+I did two internships with the Ontario government, so that code is private. The highlights: a PII redaction tool (99% accurate, 86% faster after optimization), automated profiling for 805+ database tables, and ETL pipelines that save 72 hours a year.
+
+I try to create more than I consume, so there's usually a side project in progress.
 ---
 
 <div align="center">
