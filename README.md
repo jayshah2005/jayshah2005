@@ -28,11 +28,7 @@
 </p> -->
 I like hard technical problems that end in something real. I'm a 4th-year CS student at Brock University, building a custom hyperspectral drone and an AI pipeline to spot disease in grapevines for my thesis.
 
-## Right now
-
-- Building the drone from scratch. It's early, so the goal for now is reliable flight (Crazyflie drones along the way).
-- Building [SegmentationApp](https://github.com/jayshah2005/SegmentationApp), a tool on Meta's Segment Anything Model for labelling grapevine images.
-- Looking for Summer 2027 internships and new grad roles in applied ML, computer vision and data.
+I'm looking for Summer 2027 internships and new grad roles in applied ML, computer vision and data.
 
 ## Work that isn't on GitHub
 
