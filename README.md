@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
+</p> -->
 
 <h1 align="left">
   Hi, I'm Jay!
@@ -38,13 +38,13 @@ I did two internships with the Ontario government, so that code is private. The 
 
 ---
 
-<div align="center">
+<div align="left">
 <i>Always open to conversations, collaborations, and new opportunities — feel free to shoot me a DM on <a href="https://www.linkedin.com/in/jayshah3616/" target="_blank" rel="noreferrer">LinkedIn</a>.</i>
 </div>
 
-<p align="center">
+<!-- <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> -->
 
 <!--
 **jayshah2005/jayshah2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
